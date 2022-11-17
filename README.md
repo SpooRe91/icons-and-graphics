@@ -7,23 +7,23 @@
     style="border-radius: 50%; height:150px; width: 150px;">
 
 <<<<<<< HEAD
-    `<hr>`
+    <hr>
 
-    `<h4>` At the moment I am woriking with the below mentioned technologies mainly.`</h4>`
+    <h4> At the moment I am woriking with the below mentioned technologies mainly.`</h4>`
 
-    `<h2>`IDE: <img style="height: 1rem"
+    <h2>IDE: <img style="height: 1rem"
 
     src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/programming/PNG/visualstudiocode.png?raw=true">
 
-    VS CODE`</h2>`
+    VS CODE</h2>
 
-    `<table width="100%">`
+    <table width="100%">
 
-    `<tr>`
+    <tr>
 
-    `<th>`
+    <th>
 
-    `<h3>`Skill `</h3>`
+    <h3>Skill </h3>
 
     `</th>`
 
