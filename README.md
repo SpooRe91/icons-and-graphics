@@ -21,15 +21,11 @@
 					<h3>Experience</h3>
 				</th>
 			</tr>
-			<tr>
-				<td><img
-						src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true">
-					JavaScript </td>
-				<td><img
-						src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-85.png?raw=true">
-				</td>
-				<td> (1.5+) years</td>
-			</tr>
+			        <tr>
+            <td><img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true">JavaScript </td>
+            <td><img src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-85.png?raw=true"></td>
+            <td> (1.5+) years</td>
+        </tr>
 			<tr></tr>
 			<tr>
 				<td><img
