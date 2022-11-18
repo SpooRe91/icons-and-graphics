@@ -137,16 +137,16 @@
   <br />
   <h3>Reach me at ↓</h3>
   <br/>
-  <a href="https://www.linkedin.com/in/mbogdanov9110/" target="_blank">
+  <a style="background-color:coral" href="https://www.linkedin.com/in/mbogdanov9110/" target="_blank">
     <img
       src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/PNG/linkedin.png?raw=true"
     />
   </a>
-<a href="https://github.com/SpooRe91" target="_blank">
+<a style="background-color:coral" href="https://github.com/SpooRe91" target="_blank">
     <img
       src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/PNG/github.png?raw=true"/>
   </a>
-<a href="https://dev.to/spoore91" target="_blank">
+<a style="background-color:coral" href="https://dev.to/spoore91" target="_blank">
     <img
       src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon//PNG/dev-dot-to.png?raw=true"
     />
