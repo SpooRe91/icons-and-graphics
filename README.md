@@ -1,3 +1,4 @@
+![Github stats](https://github-readme-stats.vercel.app/api?username=SpooRe91)
 #### Hi there 👋 I'm Martin and I am a -Junior full-stack web developer
 
 <hr>
